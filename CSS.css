@@ -1,0 +1,53 @@
+
+body {
+    background-image: url(image/zlatan.jpg) ;
+
+
+}
+#center {
+    color: #ff01d0;
+    position: relative;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Papyrus';
+    text-align: center;
+    color: #ff01d0;
+    font-size: 100px;
+}
+
+.default {
+    font-family: 'Papyrus';
+    font-size: 25px;
+}
+
+#username {
+    font-family: 'Papyrus';
+    font-size: 25px;
+    color: #ff01d0;
+}
+
+button {
+    width: 150px;
+    height: 100px;
+    border-radius: 50%;
+    font-family: 'Papyrus';
+    color: #ff01d0;
+    font-size: 25px;
+}
+
+#sign {
+    font-size: 25px;
+}
+#message {
+    font-size:25px;
+}
+#month {
+    height: 35px;
+}
+#day {
+    height: 35px;
+}
